@@ -30,10 +30,7 @@
     "autoload": {
         "psr-4": {
             "hstanleycrow\\EasyPHPArticleExtractor\\": "src/"
-        },
-        "files": [
-            "src/helpers.php"
-        ]
+        }
     },
     "config": {
         "allow-plugins": {
