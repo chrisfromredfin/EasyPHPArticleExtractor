@@ -1,5 +1,5 @@
 {
-    "name": "hstanleycrow/easyphparticleextractor",
+    "name": "chrisfromredfin/easyphparticleextractor",
     "description": "Free PHP library to extract the main content from an article post or news post, including images and HTML",
     "keywords": [
         "php",
@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "hstanleycrow\\EasyPHPArticleExtractor\\": "src/"
+            "chrisfromredfin\\EasyPHPArticleExtractor\\": "src/"
         }
     },
     "config": {
