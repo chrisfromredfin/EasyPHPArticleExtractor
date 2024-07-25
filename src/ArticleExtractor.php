@@ -1,8 +1,8 @@
 <?php
 
-namespace hstanleycrow\EasyPHPArticleExtractor;
+namespace chrisfromredfin\EasyPHPArticleExtractor;
 
-use hstanleycrow\EasyPHPArticleExtractor\ArticleMainContainerExtractor;
+use chrisfromredfin\EasyPHPArticleExtractor\ArticleMainContainerExtractor;
 
 include_once('simple_html_dom.php');
 class ArticleExtractor

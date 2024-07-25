@@ -9,9 +9,9 @@ You can extract only the text too. The library can remove all the internal links
 
 The library detects Youtube videos too to inject the URL of the video in the right place of the content, avoiding the manual action for this, and do the same with inserted Tweets.
 
-For a project I have developed, I found many existing open source solutions, but each had unique failures for my project. You can use this libray with another library of mine for translate using the Google Translator API: <a href="https://github.com/hstanleycrow/EasyPHPGoogleTranslate" target="_blank">EasyPHPGoogleTranslate</a>.
+For a project I have developed, I found many existing open source solutions, but each had unique failures for my project. You can use this libray with another library of mine for translate using the Google Translator API: <a href="https://github.com/chrisfromredfin/EasyPHPGoogleTranslate" target="_blank">EasyPHPGoogleTranslate</a>.
 
-Another use for this library is combinating it with another of my libraries that publish content from PHP to Wordpress: <a href="https://github.com/hstanleycrow/EasyPHPToWordpress" target="_blank">EasyPHPToWordpress</a>. In that way, you can extract, translate and publish to Wordpress. I have developed another library: <a href="https://github.com/hstanleycrow/EasyPHPOpenAI" target="_blank">EasyPHPOpenAI</a>, where you can use it to use OpenAI API into the content extracted.
+Another use for this library is combinating it with another of my libraries that publish content from PHP to Wordpress: <a href="https://github.com/chrisfromredfin/EasyPHPToWordpress" target="_blank">EasyPHPToWordpress</a>. In that way, you can extract, translate and publish to Wordpress. I have developed another library: <a href="https://github.com/chrisfromredfin/EasyPHPOpenAI" target="_blank">EasyPHPOpenAI</a>, where you can use it to use OpenAI API into the content extracted.
 </p>
 
 <h4 align="center">Free PHP library to extract the main content from an article post or news post, including images and HTML</h4>
@@ -27,7 +27,7 @@ Another use for this library is combinating it with another of my libraries that
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/hstanleycrow/EasyPHPArticleExtractor/
+$ git clone https://github.com/chrisfromredfin/EasyPHPArticleExtractor/
 
 # install libraries
 $ composer update
@@ -35,7 +35,7 @@ $ composer update
 or 
 ```bash
 # Install using composer
-$ composer require hstanleycrow/easyphparticleextractor
+$ composer require chrisfromredfin/easyphparticleextractor
 
 ### Using Examples
 You only need to create an instance of the main class with the URL with the content to extract and you will to obtain the content with the HTML, in plain text and the title of the article.
@@ -56,7 +56,7 @@ echo $articleExtractor->title() . PHP_EO
 
 ## Download
 
-You can [download](https://github.com/hstanleycrow/EasyPHPArticleExtractor/) the latest version here.
+You can [download](https://github.com/chrisfromredfin/EasyPHPArticleExtractor/) the latest version here.
 
 ## PHP Versions
 I have tested this class only in this PHP versions. So, if you have an older version and do not work, let me know.
@@ -77,6 +77,6 @@ MIT
 ---
 
 > [www.hablemosdeseo.net](https://www.hablemosdeseo.net) &nbsp;&middot;&nbsp;
-> GitHub [@hstanleycrow](https://github.com/hstanleycrow) &nbsp;&middot;&nbsp;
+> GitHub [@chrisfromredfin](https://github.com/chrisfromredfin) &nbsp;&middot;&nbsp;
 > Twitter [@harold_crow](https://twitter.com/harold_crow)
 

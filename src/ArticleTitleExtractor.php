@@ -1,6 +1,6 @@
 <?php
 
-namespace hstanleycrow\EasyPHPArticleExtractor;
+namespace chrisfromredfin\EasyPHPArticleExtractor;
 
 include_once('simple_html_dom.php');
 class ArticleTitleExtractor

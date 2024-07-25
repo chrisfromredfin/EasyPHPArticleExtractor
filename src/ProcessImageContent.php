@@ -1,6 +1,6 @@
 <?php
 
-namespace hstanleycrow\EasyPHPArticleExtractor;
+namespace chrisfromredfin\EasyPHPArticleExtractor;
 
 class ProcessImageContent extends AbstractProcessArticleContent
 {

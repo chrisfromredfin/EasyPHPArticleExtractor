@@ -1,6 +1,6 @@
 <?php
 
-namespace hstanleycrow\EasyPHPArticleExtractor;
+namespace chrisfromredfin\EasyPHPArticleExtractor;
 
 /**
  * Website: http://sourceforge.net/projects/simplehtmldom/

@@ -1,6 +1,6 @@
 <?php
 
-namespace hstanleycrow\EasyPHPArticleExtractor;
+namespace chrisfromredfin\EasyPHPArticleExtractor;
 
 #use simple_html_dom_node;
 
